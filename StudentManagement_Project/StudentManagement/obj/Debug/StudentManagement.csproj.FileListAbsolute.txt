@@ -1,0 +1,78 @@
+C:\Users\Admin\Desktop\WP\20110430_NguyenMinhNhat_FinalProject\20110430_NguyenMinhNhat_FinalProject\FinalProject-StudentManage\Ver1(Ado.Net)\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe.config
+C:\Users\Admin\Desktop\WP\20110430_NguyenMinhNhat_FinalProject\20110430_NguyenMinhNhat_FinalProject\FinalProject-StudentManage\Ver1(Ado.Net)\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe
+C:\Users\Admin\Desktop\WP\20110430_NguyenMinhNhat_FinalProject\20110430_NguyenMinhNhat_FinalProject\FinalProject-StudentManage\Ver1(Ado.Net)\StudentManagement\StudentManagement\bin\Debug\StudentManagement.pdb
+C:\Users\Admin\Desktop\WP\20110430_NguyenMinhNhat_FinalProject\20110430_NguyenMinhNhat_FinalProject\FinalProject-StudentManage\Ver1(Ado.Net)\StudentManagement\StudentManagement\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Admin\Desktop\WP\20110430_NguyenMinhNhat_FinalProject\20110430_NguyenMinhNhat_FinalProject\FinalProject-StudentManage\Ver1(Ado.Net)\StudentManagement\StudentManagement\bin\Debug\itextsharp.dll
+C:\Users\Admin\Desktop\WP\20110430_NguyenMinhNhat_FinalProject\20110430_NguyenMinhNhat_FinalProject\FinalProject-StudentManage\Ver1(Ado.Net)\StudentManagement\StudentManagement\bin\Debug\itextsharp.xml
+C:\Users\Admin\Desktop\WP\20110430_NguyenMinhNhat_FinalProject\20110430_NguyenMinhNhat_FinalProject\FinalProject-StudentManage\Ver1(Ado.Net)\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\WP\20110430_NguyenMinhNhat_FinalProject\20110430_NguyenMinhNhat_FinalProject\FinalProject-StudentManage\Ver1(Ado.Net)\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\WP\20110430_NguyenMinhNhat_FinalProject\20110430_NguyenMinhNhat_FinalProject\FinalProject-StudentManage\Ver1(Ado.Net)\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Account.CreateAccount.resources
+C:\Users\Admin\Desktop\WP\20110430_NguyenMinhNhat_FinalProject\20110430_NguyenMinhNhat_FinalProject\FinalProject-StudentManage\Ver1(Ado.Net)\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Account.ForgotPass.resources
+C:\Users\Admin\Desktop\WP\20110430_NguyenMinhNhat_FinalProject\20110430_NguyenMinhNhat_FinalProject\FinalProject-StudentManage\Ver1(Ado.Net)\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Account.Loading.resources
+C:\Users\Admin\Desktop\WP\20110430_NguyenMinhNhat_FinalProject\20110430_NguyenMinhNhat_FinalProject\FinalProject-StudentManage\Ver1(Ado.Net)\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Account.LoadingHr.resources
+C:\Users\Admin\Desktop\WP\20110430_NguyenMinhNhat_FinalProject\20110430_NguyenMinhNhat_FinalProject\FinalProject-StudentManage\Ver1(Ado.Net)\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Account.Login.resources
+C:\Users\Admin\Desktop\WP\20110430_NguyenMinhNhat_FinalProject\20110430_NguyenMinhNhat_FinalProject\FinalProject-StudentManage\Ver1(Ado.Net)\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Contact.AddContact.resources
+C:\Users\Admin\Desktop\WP\20110430_NguyenMinhNhat_FinalProject\20110430_NguyenMinhNhat_FinalProject\FinalProject-StudentManage\Ver1(Ado.Net)\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Contact.EditContact.resources
+C:\Users\Admin\Desktop\WP\20110430_NguyenMinhNhat_FinalProject\20110430_NguyenMinhNhat_FinalProject\FinalProject-StudentManage\Ver1(Ado.Net)\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Contact.SelectContact.resources
+C:\Users\Admin\Desktop\WP\20110430_NguyenMinhNhat_FinalProject\20110430_NguyenMinhNhat_FinalProject\FinalProject-StudentManage\Ver1(Ado.Net)\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Contact.ShowFullContact.resources
+C:\Users\Admin\Desktop\WP\20110430_NguyenMinhNhat_FinalProject\20110430_NguyenMinhNhat_FinalProject\FinalProject-StudentManage\Ver1(Ado.Net)\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Course.ListStudentByCourse.resources
+C:\Users\Admin\Desktop\WP\20110430_NguyenMinhNhat_FinalProject\20110430_NguyenMinhNhat_FinalProject\FinalProject-StudentManage\Ver1(Ado.Net)\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Course.ManageCourse.resources
+C:\Users\Admin\Desktop\WP\20110430_NguyenMinhNhat_FinalProject\20110430_NguyenMinhNhat_FinalProject\FinalProject-StudentManage\Ver1(Ado.Net)\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Course.PrintCourse.resources
+C:\Users\Admin\Desktop\WP\20110430_NguyenMinhNhat_FinalProject\20110430_NguyenMinhNhat_FinalProject\FinalProject-StudentManage\Ver1(Ado.Net)\StudentManagement\StudentManagement\obj\Debug\StudentManagement.StudentApp.resources
+C:\Users\Admin\Desktop\WP\20110430_NguyenMinhNhat_FinalProject\20110430_NguyenMinhNhat_FinalProject\FinalProject-StudentManage\Ver1(Ado.Net)\StudentManagement\StudentManagement\obj\Debug\StudentManagement.HR.EditInfo.resources
+C:\Users\Admin\Desktop\WP\20110430_NguyenMinhNhat_FinalProject\20110430_NguyenMinhNhat_FinalProject\FinalProject-StudentManage\Ver1(Ado.Net)\StudentManagement\StudentManagement\obj\Debug\StudentManagement.HR.HRmain.resources
+C:\Users\Admin\Desktop\WP\20110430_NguyenMinhNhat_FinalProject\20110430_NguyenMinhNhat_FinalProject\FinalProject-StudentManage\Ver1(Ado.Net)\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Properties.Resources.resources
+C:\Users\Admin\Desktop\WP\20110430_NguyenMinhNhat_FinalProject\20110430_NguyenMinhNhat_FinalProject\FinalProject-StudentManage\Ver1(Ado.Net)\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Result.AvarageScoreResult.resources
+C:\Users\Admin\Desktop\WP\20110430_NguyenMinhNhat_FinalProject\20110430_NguyenMinhNhat_FinalProject\FinalProject-StudentManage\Ver1(Ado.Net)\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Result.StatisticResult.resources
+C:\Users\Admin\Desktop\WP\20110430_NguyenMinhNhat_FinalProject\20110430_NguyenMinhNhat_FinalProject\FinalProject-StudentManage\Ver1(Ado.Net)\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Score.AverageScore.resources
+C:\Users\Admin\Desktop\WP\20110430_NguyenMinhNhat_FinalProject\20110430_NguyenMinhNhat_FinalProject\FinalProject-StudentManage\Ver1(Ado.Net)\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Score.ManageScore.resources
+C:\Users\Admin\Desktop\WP\20110430_NguyenMinhNhat_FinalProject\20110430_NguyenMinhNhat_FinalProject\FinalProject-StudentManage\Ver1(Ado.Net)\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Score.PrintScore.resources
+C:\Users\Admin\Desktop\WP\20110430_NguyenMinhNhat_FinalProject\20110430_NguyenMinhNhat_FinalProject\FinalProject-StudentManage\Ver1(Ado.Net)\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Student.AddStudent.resources
+C:\Users\Admin\Desktop\WP\20110430_NguyenMinhNhat_FinalProject\20110430_NguyenMinhNhat_FinalProject\FinalProject-StudentManage\Ver1(Ado.Net)\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Student.ListStudent.resources
+C:\Users\Admin\Desktop\WP\20110430_NguyenMinhNhat_FinalProject\20110430_NguyenMinhNhat_FinalProject\FinalProject-StudentManage\Ver1(Ado.Net)\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Student.ManageStudent.resources
+C:\Users\Admin\Desktop\WP\20110430_NguyenMinhNhat_FinalProject\20110430_NguyenMinhNhat_FinalProject\FinalProject-StudentManage\Ver1(Ado.Net)\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Student.PrintStudent.resources
+C:\Users\Admin\Desktop\WP\20110430_NguyenMinhNhat_FinalProject\20110430_NguyenMinhNhat_FinalProject\FinalProject-StudentManage\Ver1(Ado.Net)\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Student.StatisticGender.resources
+C:\Users\Admin\Desktop\WP\20110430_NguyenMinhNhat_FinalProject\20110430_NguyenMinhNhat_FinalProject\FinalProject-StudentManage\Ver1(Ado.Net)\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\WP\20110430_NguyenMinhNhat_FinalProject\20110430_NguyenMinhNhat_FinalProject\FinalProject-StudentManage\Ver1(Ado.Net)\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\WP\20110430_NguyenMinhNhat_FinalProject\20110430_NguyenMinhNhat_FinalProject\FinalProject-StudentManage\Ver1(Ado.Net)\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.CopyComplete
+C:\Users\Admin\Desktop\WP\20110430_NguyenMinhNhat_FinalProject\20110430_NguyenMinhNhat_FinalProject\FinalProject-StudentManage\Ver1(Ado.Net)\StudentManagement\StudentManagement\obj\Debug\StudentManagement.exe
+C:\Users\Admin\Desktop\WP\20110430_NguyenMinhNhat_FinalProject\20110430_NguyenMinhNhat_FinalProject\FinalProject-StudentManage\Ver1(Ado.Net)\StudentManagement\StudentManagement\obj\Debug\StudentManagement.pdb
+C:\Users\Admin\Desktop\IT Project\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe.config
+C:\Users\Admin\Desktop\IT Project\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe
+C:\Users\Admin\Desktop\IT Project\StudentManagement\StudentManagement\bin\Debug\StudentManagement.pdb
+C:\Users\Admin\Desktop\IT Project\StudentManagement\StudentManagement\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Admin\Desktop\IT Project\StudentManagement\StudentManagement\bin\Debug\itextsharp.dll
+C:\Users\Admin\Desktop\IT Project\StudentManagement\StudentManagement\bin\Debug\itextsharp.xml
+C:\Users\Admin\Desktop\IT Project\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\IT Project\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\IT Project\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Account.CreateAccount.resources
+C:\Users\Admin\Desktop\IT Project\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Account.ForgotPass.resources
+C:\Users\Admin\Desktop\IT Project\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Account.Loading.resources
+C:\Users\Admin\Desktop\IT Project\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Account.LoadingHr.resources
+C:\Users\Admin\Desktop\IT Project\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Account.Login.resources
+C:\Users\Admin\Desktop\IT Project\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Contact.AddContact.resources
+C:\Users\Admin\Desktop\IT Project\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Contact.EditContact.resources
+C:\Users\Admin\Desktop\IT Project\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Contact.SelectContact.resources
+C:\Users\Admin\Desktop\IT Project\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Contact.ShowFullContact.resources
+C:\Users\Admin\Desktop\IT Project\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Course.ListStudentByCourse.resources
+C:\Users\Admin\Desktop\IT Project\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Course.ManageCourse.resources
+C:\Users\Admin\Desktop\IT Project\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Course.PrintCourse.resources
+C:\Users\Admin\Desktop\IT Project\StudentManagement\StudentManagement\obj\Debug\StudentManagement.StudentApp.resources
+C:\Users\Admin\Desktop\IT Project\StudentManagement\StudentManagement\obj\Debug\StudentManagement.HR.EditInfo.resources
+C:\Users\Admin\Desktop\IT Project\StudentManagement\StudentManagement\obj\Debug\StudentManagement.HR.HRmain.resources
+C:\Users\Admin\Desktop\IT Project\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Properties.Resources.resources
+C:\Users\Admin\Desktop\IT Project\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Result.AvarageScoreResult.resources
+C:\Users\Admin\Desktop\IT Project\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Result.StatisticResult.resources
+C:\Users\Admin\Desktop\IT Project\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Score.AverageScore.resources
+C:\Users\Admin\Desktop\IT Project\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Score.ManageScore.resources
+C:\Users\Admin\Desktop\IT Project\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Score.PrintScore.resources
+C:\Users\Admin\Desktop\IT Project\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Student.AddStudent.resources
+C:\Users\Admin\Desktop\IT Project\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Student.ListStudent.resources
+C:\Users\Admin\Desktop\IT Project\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Student.ManageStudent.resources
+C:\Users\Admin\Desktop\IT Project\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Student.PrintStudent.resources
+C:\Users\Admin\Desktop\IT Project\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Student.StatisticGender.resources
+C:\Users\Admin\Desktop\IT Project\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\IT Project\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\IT Project\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.CopyComplete
+C:\Users\Admin\Desktop\IT Project\StudentManagement\StudentManagement\obj\Debug\StudentManagement.exe
+C:\Users\Admin\Desktop\IT Project\StudentManagement\StudentManagement\obj\Debug\StudentManagement.pdb
